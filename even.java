@@ -1,13 +1,13 @@
-import java.util.scanner;
+import java.util.Scanner;
 public class number{
-public static void main(string[] args){
+public static void main(String[] args){
 int n;
-system.out.println("enter an integer number:");
-scanner num=new scanner (system.in);
+System.out.println("enter an integer number:");
+Scanner num=new Scanner (System.in);
 n=num.nextInt(); 
 if(n%2==0)
-system.out.println("even");
+System.out.println("even");
 else
-system.out.println("odd");
+System.out.println("odd");
 }
 }
