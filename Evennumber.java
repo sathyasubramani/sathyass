@@ -1,4 +1,4 @@
-public class Even {
+public class Evennumber {
 	public static void main(String org[])
 	{
 	int i;
